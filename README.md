@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=farxaan001.farxaan001" />
 <h1 align="center">Hi 👋, I'm Issa Abdille</h1>
 <h3 align="center">A passionate software Engineer from Kenya</h3>
 
