@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issa9711&label=Profile%20views&color=0e75b6&style=flat" alt="issa9711" /> </p>
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Nodejs,React.js, C# **
 
